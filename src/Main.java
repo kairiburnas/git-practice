@@ -2,11 +2,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello people!");
-        String text = "New world";
+        System.out.println("Hello PEOPLE!");
+        String text = "New WORLD";
         System.out.println(text);
 
-        int number = 10;
+        int number = 20;
         System.out.println(number);
     }
 }
