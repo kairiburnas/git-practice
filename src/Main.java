@@ -2,11 +2,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello universe!");
-        String message = "Welcome to the universe";
-        System.out.println(message);
+        System.out.println("Hello PEOPLE!");
+        String text = "New WORLD";
+        System.out.println(text);
 
-        int number = 10;
+        int number = 20;
         System.out.println(number);
     }
 }
